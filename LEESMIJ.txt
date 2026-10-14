@@ -1,0 +1,16 @@
+PinkPandaProgression — iPhone / GitHub Pages
+===========================================
+
+Zo zet je de nieuwe versie op GitHub Pages:
+1. Open je repository: https://github.com/AndresPar123/gymprogress
+2. Upload/vervang ALLE bestanden in deze ZIP (niet de ZIP zelf).
+3. Vervang bestaande bestanden als GitHub dat vraagt.
+4. Wacht even tot GitHub Pages de nieuwe versie heeft gepubliceerd.
+5. Open https://AndresPar123.github.io/gymprogress/ op je iPhone.
+6. Als de oude versie blijft verschijnen, sluit de webapp volledig en open de link opnieuw. Soms helpt het om Safari te herladen en daarna de webapp opnieuw te openen.
+
+Op iPhone installeren:
+Open de link in Safari > Deel > Zet op beginscherm.
+
+Gegevens en notities:
+Je trainingen en notities worden lokaal op je eigen browser/apparaat opgeslagen. De notities blijven bij de oefening staan wanneer je die later opnieuw selecteert. Gegevens synchroniseren niet automatisch tussen verschillende apparaten.
